@@ -1,8 +1,8 @@
 #!/bin/bash
-cat web/encabezado.html > web/pagina1.html
-cat web/menu.html >> web/pagina1.html
-cat <<EOF >> web/pagina1.html
+cat encabezado.html > pagina1.html
+cat menu.html >> pagina1.html
+cat <<EOF >> pagina1.html
 <h1>Página 1</h1>
 <p>Esta es la primera página.</p>
 EOF
-cat web/pie.html >> web/pagina1.html
+cat pie.html >> pagina1.html

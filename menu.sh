@@ -1,5 +1,5 @@
 #!/bin/bash
-cat <<EOF > web/menu.html
+cat <<EOF > menu.html
 <nav>
     <ul>
         <li><a href="index.html">Inicio</a></li>

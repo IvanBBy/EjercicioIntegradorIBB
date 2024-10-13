@@ -1,5 +1,5 @@
 #!/bin/bash
-cat <<EOF > web/encabezado.html
+cat <<EOF > encabezado.html
 <!DOCTYPE html>
 <html lang="es">
 <head>
